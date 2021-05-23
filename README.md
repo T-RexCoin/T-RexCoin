@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T-RexCoin
 - 👀 I’m interested in cryptos 
 - 🌱 I’m currently learning Dapps
-- 💞️ I’m looking to collaborate on knowing how to collaborate
+- 💞️ I’m looking to collaborate on blockchain technology
 - 📫 How to reach me ...on github
 
 <!---
